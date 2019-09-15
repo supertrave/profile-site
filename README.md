@@ -1,2 +1,2 @@
-# profile site
+# Profile Site
  First Techdegree project
